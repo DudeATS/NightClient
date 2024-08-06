@@ -19,6 +19,6 @@ Download The Latest Zipped Folder And Extract It. When Its Extracted Place The F
 Then Open Your Preffered Minecraft Launcher And Create A New Installation Called Night Client And Launch it
 
 
-## Security
+## Security  **IMPORTANT**
 
 The Client Is Currently Cracked And Although It Has An Option To Login With Microsoft Kindly Donot Login With Your Microsoft Account As It Has A Risk Until Further Notice.
